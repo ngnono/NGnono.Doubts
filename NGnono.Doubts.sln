@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGnono.Doubts.IDisposableDoubts", "NGnono.Doubts.IDisposableDoubts\NGnono.Doubts.IDisposableDoubts.csproj", "{A91F8064-F8F8-4834-A7F5-B79C23F8ECEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91F8064-F8F8-4834-A7F5-B79C23F8ECEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91F8064-F8F8-4834-A7F5-B79C23F8ECEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91F8064-F8F8-4834-A7F5-B79C23F8ECEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91F8064-F8F8-4834-A7F5-B79C23F8ECEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
