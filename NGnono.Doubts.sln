@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGnono.Doubts.IDisposableDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGnono.Doubts.VirtualDoubts", "NGnono.Doubts.VirtualDoubts\NGnono.Doubts.VirtualDoubts.csproj", "{EB62BBC7-0BF9-4F22-A37E-63672699795A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGnono.Doubts.PartialDoubts", "NGnono.Doubts.PartialDoubts\NGnono.Doubts.PartialDoubts.csproj", "{EE1D1905-A092-410E-93FB-368C2E0D05E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{EB62BBC7-0BF9-4F22-A37E-63672699795A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB62BBC7-0BF9-4F22-A37E-63672699795A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB62BBC7-0BF9-4F22-A37E-63672699795A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1D1905-A092-410E-93FB-368C2E0D05E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1D1905-A092-410E-93FB-368C2E0D05E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1D1905-A092-410E-93FB-368C2E0D05E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1D1905-A092-410E-93FB-368C2E0D05E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
