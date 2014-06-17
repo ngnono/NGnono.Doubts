@@ -14,16 +14,12 @@ namespace NGnono.Doubts.IDisposableDoubts
 
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-=======
-
             using (var cc = new A())
             {
                 var t = cc.ToString();
                 Console.WriteLine(t);
             }
 
->>>>>>> master
             var a = new A();
             a = null;
             Logger.Debug("GC释放前");
